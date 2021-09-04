@@ -249,7 +249,7 @@ a{
         width: 100%;
         height: 30vh;
         padding: 5px;
-        background-color: darkblue;
+        background-color: rgb(156, 99, 52);
     }
     .big-menu{
         display:none;
