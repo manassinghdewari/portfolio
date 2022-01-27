@@ -164,24 +164,16 @@ a{
     display:none;
     
 }
-.contactcontainer {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
-}
+
 .formcontainer {
-    margin: 6vh 0vw;
-    display: flex;
-    align-items: center;
+    /* margin: 6vh 0vw; */
+    justify-content:center;
     padding: 1vh 2vw;
 }
 .input
 {
     align-items: center;
-    padding:15px;
-    margin-left:400px;
-    justify-content: space-around;
-    display:flex;
+    padding:15px;    
 }
 .big-menu{
     margin-top:20px;
@@ -212,7 +204,7 @@ button:hover{
     {
     align-items: center;
     padding:15px;
-    margin-left:10px;
+    /* margin-left:10px; */
     justify-content: space-around;
     display:flex;
     }
@@ -228,9 +220,6 @@ button:hover{
     }
    h1{
         font-size: 55px;
-    }
-    p{
-
     }
     .hero-text
     {
